@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "encryptgig-9925d"
+  },
+  "targets": {
+    "encryptgig-9925d": {
+      "hosting": {
+        "encryptgig": [
+          "encryptgig"
+        ]
+      }
+    }
+  }
+}
